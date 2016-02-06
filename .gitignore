@@ -1,3 +1,10 @@
-/vendor/
-/composer.phar
-/composer.lock
+build/
+vendor/
+tests/logs/
+travis/
+vendor/
+.php_cs.cache
+cache.properties
+composer.lock
+composer.phar
+php-cs-fixer.phar
