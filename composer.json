@@ -31,7 +31,8 @@
         "psr-4": {
             "MyProject\\Test\\": "tests/",
 			"spec\\": "spec/"
-        }
+        },
+		"files": ["tests/bootstrap.php"]
     },
 	"bin": [
 		"vendor/bin/coveralls",
